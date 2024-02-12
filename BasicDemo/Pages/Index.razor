@@ -9,11 +9,26 @@
 <p>
     MySetting Value: @mySetting
 </p>
+<p>
+    MySubSetting Value: @mySubSetting
+</p>
+<p>
+    mySubSubSetting Value: @mySubSubSetting
+</p>
+<p>
+    connectionString Value: @connectionString
+</p>
 @code {
     string mySetting = string.Empty;
+    string mySubSetting = string.Empty;
+    string mySubSubSetting = string.Empty;
+    string connectionString = string.Empty;
     protected override void OnInitialized()
     {
         mySetting = config.GetValue<string>("MySettings")!;
+        mySubSetting = config.GetValue<string>("MainSetting:SubSetting")!;
+        mySubSubSetting = config.GetValue<string>("MainSetting:SubSection:SubSubSetting")!;
+        connectionString = config.GetConnectionString("Default")!;
     }
 
 }

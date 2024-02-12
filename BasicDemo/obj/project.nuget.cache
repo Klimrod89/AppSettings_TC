@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "vDNyOGj5X/hJwF3KO8chWggaUE+y1cs+18MTQJhC/brIVJA6Jzsy7F+4nQaPvmgrkNYJRkIcbobuY6odlhFVCA==",
+  "dgSpecHash": "VENS9/V2l3z+EnIRO7tHIbmfG0wNcjmfuBN7L+eQpogCmupH5JbDAp0qh3qQ4sbWMuktcbbjSveS/jn1CiNVCg==",
   "success": true,
   "projectFilePath": "/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/BasicDemo/BasicDemo.csproj",
   "expectedPackageFiles": [
-    "/Users/ymac/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "/Users/ymac/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
-    "/Users/ymac/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.14/microsoft.netcore.app.host.osx-arm64.7.0.14.nupkg.sha512"
+    "/Users/ymac/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/ymac/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/ymac/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.15/microsoft.netcore.app.host.osx-arm64.7.0.15.nupkg.sha512"
   ],
   "logs": []
 }
