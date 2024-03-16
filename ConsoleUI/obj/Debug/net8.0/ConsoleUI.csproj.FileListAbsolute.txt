@@ -5,6 +5,7 @@
 /Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/ConsoleUI/bin/Debug/net8.0/ConsoleUI.pdb
 /Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/ConsoleUI/bin/Debug/net8.0/Microsoft.Extensions.Configuration.dll
 /Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/ConsoleUI/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/ConsoleUI/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Binder.dll
 /Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/ConsoleUI/bin/Debug/net8.0/Microsoft.Extensions.Configuration.FileExtensions.dll
 /Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/ConsoleUI/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Json.dll
 /Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/ConsoleUI/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Abstractions.dll
@@ -17,10 +18,9 @@
 /Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/ConsoleUI/obj/Debug/net8.0/ConsoleUI.AssemblyInfo.cs
 /Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/ConsoleUI/obj/Debug/net8.0/ConsoleUI.csproj.CoreCompileInputs.cache
 /Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/ConsoleUI/obj/Debug/net8.0/ConsoleUI.sourcelink.json
-/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/ConsoleUI/obj/Debug/net8.0/ConsoleUI.csproj.CopyComplete
+/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/ConsoleUI/obj/Debug/net8.0/ConsoleUI.csproj.Up2Date
 /Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/ConsoleUI/obj/Debug/net8.0/ConsoleUI.dll
 /Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/ConsoleUI/obj/Debug/net8.0/refint/ConsoleUI.dll
 /Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/ConsoleUI/obj/Debug/net8.0/ConsoleUI.pdb
 /Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/ConsoleUI/obj/Debug/net8.0/ConsoleUI.genruntimeconfig.cache
 /Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/ConsoleUI/obj/Debug/net8.0/ref/ConsoleUI.dll
-/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/ConsoleUI/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Binder.dll
