@@ -3,7 +3,9 @@
 
 IConfigurationBuilder builder = new ConfigurationBuilder()
                                 .SetBasePath(Directory.GetCurrentDirectory())
-                                .AddJsonFile("appsettings.json", false, true);
+                                .AddJsonFile("appsettings.json", false, true)
+                                .AddJsonFile("appsettings.Development.json", true, true)
+                                .AddUserSecrets<Program>();
 IConfigurationRoot config = builder.Build();
 
 string mySetting = config["MySettings"]!;
