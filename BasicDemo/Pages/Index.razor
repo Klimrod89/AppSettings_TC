@@ -24,6 +24,7 @@
     string mySubSetting = string.Empty;
     string mySubSubSetting = string.Empty;
     string connectionString = string.Empty;
+    EmailSettingsOptions emailSettings = new();
     protected override void OnInitialized()
     {
         mySetting = config.GetValue<string>("MySettings")!;
