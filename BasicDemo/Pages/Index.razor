@@ -1,6 +1,7 @@
 ﻿@page "/"
 @inject IConfiguration config
-@inject IOptions<EmailSettingsOptions> emailSettingsOptions
+@inject IOptionsSnapshot<EmailSettingsOptions> emailSettingsOptions
+@inject IOptionsSnapshot<MainSettingOptions> mainSettingOptions
 
 <PageTitle>Index</PageTitle>
 
@@ -35,12 +36,17 @@
 
 
 </p>
+<p>
+    SubSetting: @mainSettings.SubSetting <br/>
+    mySubSubSetting: @mainSettings.SubSection.SubSubSetting
+</p>
 @code {
     string mySetting = string.Empty;
     string mySubSetting = string.Empty;
     string mySubSubSetting = string.Empty;
     string connectionString = string.Empty;
     EmailSettingsOptions emailSettings = new();
+    MainSettingOptions mainSettings = new();
     protected override void OnInitialized()
     {
         mySetting = config.GetValue<string>("MySettings")!;
@@ -50,6 +56,7 @@
 
         // emailSettings = config.GetSection("EmailSettings").Get<EmailSettingsOptions>()!;
         emailSettings = emailSettingsOptions.Value;
+        mainSettings = mainSettingOptions.Value;
     }
 
 }

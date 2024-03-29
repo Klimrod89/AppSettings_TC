@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 using BasicDemo.Data;
 using BasicDemo.Options;
+using BasicDemo;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,7 +11,7 @@ builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 builder.Services.AddSingleton<WeatherForecastService>();
 builder.Services.Configure<EmailSettingsOptions>(builder.Configuration.GetSection("EmailSettings"));
-
+builder.Services.Configure<MainSettingOptions>(builder.Configuration.GetSection("MainSetting"));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

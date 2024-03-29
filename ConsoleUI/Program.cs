@@ -1,16 +1,20 @@
-﻿using Microsoft.Extensions.Configuration;
+﻿using System.ComponentModel;
+using Microsoft.Extensions.Configuration;
+
 
 
 IConfigurationBuilder builder = new ConfigurationBuilder()
-                                .SetBasePath(Directory.GetCurrentDirectory())
+                                .SetBasePath(Directory.GetCurrentDirectory() + "/ConsoleUI")
                                 .AddJsonFile("appsettings.json", false, true)
                                 .AddJsonFile("appsettings.Development.json", true, true)
                                 .AddUserSecrets<Program>();
+
 IConfigurationRoot config = builder.Build();
 
 string mySetting = config["MySettings"]!;
 mySetting = config.GetValue<string>("MySettings")!;
 mySetting = (string)config.GetValue(typeof(string), "MySettings")!;
+
 string mySubSetting = config.GetValue<string>("MainSetting:SubSetting")!;
 
 string? mySubSubSetting = config["MainSetting:SubSection:SubSubSetting"];
