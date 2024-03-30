@@ -1,0 +1,3 @@
+<configuration>
+    <MainSetting SubSetting = "This is also from xml"/>
+</configuration>

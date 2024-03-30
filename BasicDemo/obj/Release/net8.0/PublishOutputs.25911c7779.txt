@@ -1,0 +1,10 @@
+/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/publish/BasicDemo
+/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/publish/appsettings.Development.json
+/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/publish/appsettings.json
+/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/publish/appsettings.Production.json
+/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/publish/appsettings.Staging.json
+/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/publish/custom.json
+/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/publish/BasicDemo.dll
+/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/publish/BasicDemo.deps.json
+/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/publish/BasicDemo.runtimeconfig.json
+/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/publish/BasicDemo.pdb

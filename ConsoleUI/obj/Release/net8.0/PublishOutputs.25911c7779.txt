@@ -1,0 +1,16 @@
+/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/publish/ConsoleUI
+/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/publish/ConsoleUI.dll
+/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/publish/ConsoleUI.deps.json
+/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/publish/ConsoleUI.runtimeconfig.json
+/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/publish/ConsoleUI.pdb
+/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/publish/Microsoft.Extensions.Configuration.dll
+/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/publish/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/publish/Microsoft.Extensions.Configuration.Binder.dll
+/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/publish/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/publish/Microsoft.Extensions.Configuration.Json.dll
+/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/publish/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/publish/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/publish/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/publish/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/publish/Microsoft.Extensions.Primitives.dll
+/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/publish/dotnet-user-secrets.dll

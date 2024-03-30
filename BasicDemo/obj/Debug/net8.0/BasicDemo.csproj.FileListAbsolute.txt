@@ -32,3 +32,4 @@
 /Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/BasicDemo/obj/Debug/net8.0/BasicDemo.pdb
 /Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/BasicDemo/obj/Debug/net8.0/BasicDemo.genruntimeconfig.cache
 /Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/BasicDemo/obj/Debug/net8.0/ref/BasicDemo.dll
+/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/BasicDemo/bin/Debug/net8.0/custom.json
