@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "90Bem24gr/E58TrWjcOUuFFUb+Iub/NPw+ZZdwZEiVuLMoPKN7cgTTUTyfwRrz7hmTFSUH9DCVMdRlPMwmNDpg==",
+  "dgSpecHash": "+XVNA1DtsG0nMu09RXjrNw08LnOsLorsK3/UX9dSd03I7v34GSrcZAQAGbxyjdSXltRgKTs/I8svGxH4Q5pI1Q==",
   "success": true,
   "projectFilePath": "/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/ConsoleUI/ConsoleUI.csproj",
   "expectedPackageFiles": [
@@ -10,9 +10,12 @@
     "/Users/ymac/.nuget/packages/microsoft.extensions.configuration.fileextensions/8.0.0/microsoft.extensions.configuration.fileextensions.8.0.0.nupkg.sha512",
     "/Users/ymac/.nuget/packages/microsoft.extensions.configuration.json/8.0.0/microsoft.extensions.configuration.json.8.0.0.nupkg.sha512",
     "/Users/ymac/.nuget/packages/microsoft.extensions.configuration.usersecrets/2.0.2/microsoft.extensions.configuration.usersecrets.2.0.2.nupkg.sha512",
+    "/Users/ymac/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/ymac/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.1/microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
     "/Users/ymac/.nuget/packages/microsoft.extensions.fileproviders.abstractions/8.0.0/microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
     "/Users/ymac/.nuget/packages/microsoft.extensions.fileproviders.physical/8.0.0/microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
     "/Users/ymac/.nuget/packages/microsoft.extensions.filesystemglobbing/8.0.0/microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
+    "/Users/ymac/.nuget/packages/microsoft.extensions.options/8.0.2/microsoft.extensions.options.8.0.2.nupkg.sha512",
     "/Users/ymac/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "/Users/ymac/.nuget/packages/microsoft.extensions.secretmanager.tools/2.0.2/microsoft.extensions.secretmanager.tools.2.0.2.nupkg.sha512",
     "/Users/ymac/.nuget/packages/microsoft.netcore.app/2.0.7/microsoft.netcore.app.2.0.7.nupkg.sha512",

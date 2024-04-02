@@ -27,3 +27,6 @@
 /Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/ConsoleUI/obj/Debug/net8.0/ConsoleUI.pdb
 /Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/ConsoleUI/obj/Debug/net8.0/ConsoleUI.genruntimeconfig.cache
 /Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/ConsoleUI/obj/Debug/net8.0/ref/ConsoleUI.dll
+/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/ConsoleUI/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/ConsoleUI/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/ymac/Code/DotNetCLI/Tim Corey/AppSettings/ConsoleUI/bin/Debug/net8.0/Microsoft.Extensions.Options.dll

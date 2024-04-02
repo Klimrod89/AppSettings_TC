@@ -14,6 +14,7 @@ Dictionary<string, string> memCollection =new() {{"MainSetting:SubSetting", "sub
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 builder.Services.AddSingleton<WeatherForecastService>();
+
 builder.Services.Configure<EmailSettingsOptions>(builder.Configuration.GetSection("EmailSettings"));
 builder.Services.Configure<MainSettingOptions>(builder.Configuration.GetSection("MainSetting"));
 
@@ -24,7 +25,6 @@ builder.Configuration.AddInMemoryCollection(memCollection! );
 
 
 var app = builder.Build();
-
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
